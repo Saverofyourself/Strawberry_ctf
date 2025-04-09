@@ -247,7 +247,7 @@ def check(s):
             cur.executemany(
                 "INSERT INTO site_config(config_key, config_value) VALUES (%s, %s)",
                 [
-                    ["site_name", "Blueberry CTF"],
+                    ["site_name", "Strawberry CTF"],
                     ["message_board", "实力，我的**实力**！"],
                     ["use_gravatar", "yes"],
                     ["use_local_resources", "no"],
