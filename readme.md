@@ -1,22 +1,11 @@
-# Blueberry CTF
+性能:
 
-A CTF platform developed for the  Lilac team. Designed for competitions with ~500 players.
-
-Features:
-
-- Private containers & private flags for each player
-- Multiple tasks in one problem
-
-Intro: [Blueberry CTF 的设计、实现和反思](https://www.ruanx.net/blueberry-ctf/)
-
-![p1](https://github.com/Ruanxingzhi/Blueberry-CTF/assets/16996226/22def8f7-dd68-4e69-94b2-6e880d4e4741)
-
-![p2](https://github.com/Ruanxingzhi/Blueberry-CTF/assets/16996226/65d8737f-ac36-4018-ab9f-2e78eb7826d7)
-
+- 容器个人化 & 参赛者flag转优化
+- 单题目多容器部署
 
 ## Start
 
-Latest Debian is recommended.
+作者系统：Linux kali 6.6.15-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.6.15-2kali1 (2024-05-17) x86_64 GNU/Linux
 
 Install requirements:
 
